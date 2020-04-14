@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\corona\corona\bin\Debug\corona.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\corona\corona\bin\Debug\corona.exe
+C:\Users\user\documents\visual studio 2013\Projects\corona\corona\bin\Debug\corona.pdb
+C:\Users\user\documents\visual studio 2013\Projects\corona\corona\bin\Debug\corona.xml
+C:\Users\user\documents\visual studio 2013\Projects\corona\corona\obj\Debug\corona.Form1.resources
+C:\Users\user\documents\visual studio 2013\Projects\corona\corona\obj\Debug\corona.Resources.resources
+C:\Users\user\documents\visual studio 2013\Projects\corona\corona\obj\Debug\corona.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2013\Projects\corona\corona\obj\Debug\corona.exe
+C:\Users\user\documents\visual studio 2013\Projects\corona\corona\obj\Debug\corona.xml
+C:\Users\user\documents\visual studio 2013\Projects\corona\corona\obj\Debug\corona.pdb
